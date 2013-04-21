@@ -1,0 +1,8 @@
+name: MCPacks
+main: com.rb2750.backpack.Backpack
+version: 2.6
+
+commands:
+  backpack:
+    aliases: bp
+    description: Backpacks.
